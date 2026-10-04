@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: SimplePing
+## Notes: Simple movable ping display for OctoWoW / Turtle WoW / WoW 1.12
+## Author: maikelfumaker
+## Version: 1.0.0
+## SavedVariables: SimplePingDB
+
+SimplePing.lua
